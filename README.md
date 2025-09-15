@@ -7,7 +7,7 @@ I provide two components:
 - **`movel_waypoints_autorun/`** — Dockerized waypoint follower (runs in the container).
 - **`host_sim_minimal/`** — Minimal host-side simulation that provides `/map`, `/odom`, `/tf` and consumes `/cmd_vel`.
 
-The specific code should be downloaded via a Google Drive link.
+The specific code can be downloaded via a Google Drive link.
 
 ---
 

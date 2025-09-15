@@ -2,10 +2,6 @@
 
 This repository contains the solutions for **PART B** (Programming Test) and **PART C** (Algorithmic Test) of Control Systems Assignment, as well as a video on the Seirios RNS installation test.
 
-The setup strictly follows the assignment footnote:
-
-> **Simulation/rosbag runs on the host**, while the **navigation program runs inside Docker**.
-
 I provide two components:
 
 - **`movel_waypoints_autorun/`** — Dockerized waypoint follower (runs in the container).

@@ -192,6 +192,7 @@ A ready-to-use layout is provided at `host_sim_minimal/rviz/sim.rviz`.
 -  Host provides `/map`, `/odom`, `/tf`
 -  Waypoint follower runs and reaches goals (PART B)
 -  Path simplification script with exact-N output (PART C)
+-  Seirios RNS installation test
 -  README covers steps, tuning, and pitfalls
 -  Videos prepared
 

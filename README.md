@@ -92,7 +92,6 @@ The container will wait for the host’s ROS master and then launch `move_base` 
 
 ### Select the waypoint file
 By default the container looks for a waypoints YAML in `src/waypoint_follower/config/`.  
-You can override with an environment variable:
 
 ```bash
 # Use a file inside the container (for example), or another motion path file.    

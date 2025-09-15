@@ -1,6 +1,6 @@
-# Movel AI – Control Systems Assignment
+Control Systems Assignment
 
-This repository contains the solutions for **PART B** (Programming Test) and **PART C** (Algorithmic Test) of the Movel AI Control Systems Assignment, as well as a video on the Seirios RNS installation test.
+This repository contains the solutions for **PART B** (Programming Test) and **PART C** (Algorithmic Test) of Control Systems Assignment, as well as a video on the Seirios RNS installation test.
 
 The setup strictly follows the assignment footnote:
 

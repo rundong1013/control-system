@@ -1,4 +1,4 @@
-Control Systems Assignment
+# Control Systems Assignment
 
 This repository contains the solutions for **PART B** (Programming Test) and **PART C** (Algorithmic Test) of Control Systems Assignment, as well as a video on the Seirios RNS installation test.
 

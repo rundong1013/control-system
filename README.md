@@ -166,23 +166,21 @@ A ready-to-use layout is provided at `host_sim_minimal/rviz/sim.rviz`.
 
 ## 7) Demo Video
 
-## 7) Demo Video
-
 ### PART B – Waypoint Following Demo
 [Watch the demo](https://drive.google.com/file/d/1IM1fi4wKdjHW61sjGX-uJ4_uUUJ5uEHR/view?usp=sharing)
 
 ### PART C – Path Simplification Demo
-[Watch the demo](https://drive.google.com/file/d/1RTNR7u17caqvxNxZFTBPb9KvtEm8rWeX/view?usp=drive_link)
+[Watch the demo](https://drive.google.com/file/d/13r0auh0wYkSjxo5f9vyt5I_juk-zg6NR/view?usp=sharing)
 
 ### Seirios RNS Installation Test
 - Driving Test  
-  [Watch here](https://drive.google.com/file/d/1RTNR7u17caqvxNxZFTBPb9KvtEm8rWeX/view?usp=drive_link)
+  [Watch here](https://drive.google.com/file/d/1RTNR7u17caqvxNxZFTBPb9KvtEm8rWeX/view?usp=sharing)
 
 - Trails Test  
-  [Watch here](https://drive.google.com/file/d/1RTNR7u17caqvxNxZFTBPb9KvtEm8rWeX/view?usp=drive_link)
+  [Watch here](https://drive.google.com/file/d/1sITdud8EUz-9mKUvyW5tE2mTd217Q5Cn/view?usp=sharing)
 
 - Waypoints Test  
-  [Watch here](https://drive.google.com/file/d/1RTNR7u17caqvxNxZFTBPb9KvtEm8rWeX/view?usp=drive_link)
+  [Watch here](https://drive.google.com/file/d/13YAEWWLgVA-2WyKmtnpmC1Tb1QbyvxIF/view?usp=sharing)
 
 
 
